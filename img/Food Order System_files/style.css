@@ -1,0 +1,31 @@
+ 
+.main {   float: right;   width: 660px;   background: #fff; height: 700px;} 
+.container{background: #d6fbd8;}
+.products {   list-style: none;   margin: 15px;   padding: 0;   overflow: hidden; } 
+.products li {   width: 190px;   text-align: center;   height: 240px;   float: left;   margin: 20px 10px;   font-size: 15px; } 
+.products a{ color:green; }
+.products b {   display: block;   margin: 5px 0;   font-weight: normal; } 
+.products i {   color: #064909; }
+.list-group li a{color:green;} 
+.navbar-header a{color: green;}
+a.add-to-cart {   font-size: 13px;   display: block;   background: #74ee7a;   color: #064909;   padding: 5px 0;   margin: 5px 30px; } 
+.msg {   background: #74ee7a;   color: #064909;   text-align: center;   padding: 10px;   margin: 50px 20px; } 
+.msg a {   color: green;   border-bottom: 1px dotted #064909; } 
+label.error { color: #900; font-size: 13px; font-style: italic; margin-top: -1px; } 
+.search { margin-top: 20px; } 
+.search input[type=text] { width: 180px; margin-left: 8px; } 
+.search input[type=submit] {     width: 32px;     height: 32px;     cursor: pointer;     background: transparent url(../images/search.png) no-repeat center center;     border: 0 none;     padding: 0;     margin: 0 0 0 -5px; }
+ 
+/*.main {   float: right;   width: 660px;   background: #064909; height: 700px;} 
+.products {   list-style: none;   margin: 15px;   padding: 0;   overflow: hidden; } 
+.products li {   width: 190px;   text-align: center;   height: 240px;   float: left;   margin: 20px 10px;   font-size: 15px; } 
+.products b {   display: block;   margin: 5px 0;   font-weight: normal; } 
+.products i {   color: #064909; } 
+a.add-to-cart {   font-size: 13px;   display: block;   background: #74ee7a;   color: #064909;   padding: 5px 0;   margin: 5px 30px; } 
+.msg {   background: #74ee7a;   color: #064909;   text-align: center;   padding: 10px;   margin: 50px 20px; } 
+.msg a {   color: #eee;   border-bottom: 1px dotted #064909; } 
+label.error { color: #900; font-size: 13px; font-style: italic; margin-top: -1px; } 
+.search { margin-top: 20px; } 
+.search input[type=text] { width: 180px; margin-left: 8px; } 
+.search input[type=submit] {     width: 32px;     height: 32px;     cursor: pointer;     background: transparent url(../images/search.png) no-repeat center center;     border: 0 none;     padding: 0;     margin: 0 0 0 -5px; }
+*/
